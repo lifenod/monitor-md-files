@@ -4,6 +4,8 @@ Chinese:[《监测 Markdown 文件改动并将其转化为 HTML 文件 | 明无�
 
 ## How to use
 
+Require installing Pandoc: <http://pandoc.org/>
+
 1.  Install dependencies
 
         bundle install
