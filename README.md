@@ -19,4 +19,4 @@ Chinese:[《监测 Markdown 文件改动并将其转化为 HTML 文件 | 明无�
 
 If you want to modify the MD file later, 
 the browser can auto refresh HTML page, 
-you can use the chrome extension: <https://chrome.google.com/webstore/detail/livepage/pilnojpmdoofaelbinaeodfpjheijkbh>
+you can use the Chrome extension: <https://chrome.google.com/webstore/detail/livepage/pilnojpmdoofaelbinaeodfpjheijkbh>
