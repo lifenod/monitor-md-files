@@ -13,9 +13,9 @@ Chinese:[《监测 Markdown 文件改动并将其转化为 HTML 文件 | 明无�
 
         chmod +x ./monitor-md-files.rb
 
-3.  Run
+3.  Run it in the background
 
-        ./monitor-md-files.rb
+        nohup ./monitor-md-files.rb &
 
 If you want to modify the MD file later, 
 the browser can auto refresh HTML page, 
